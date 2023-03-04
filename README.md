@@ -1,2 +1,2 @@
 # terminal-chat
-terminal aracğıyla sohbet etme
+terminal ile sohbet etme
